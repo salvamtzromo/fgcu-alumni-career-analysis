@@ -1,0 +1,177 @@
+alumni_id,full_name,position,hometown,grad_term,degree_major,uin,personal_email,school_email,phone,instagram,linkedin,job,location
+1,Ivan Turner,GK,Denver,Summer 2025,Communication,998116677,,ivanturn9817@school.example.edu,00+49 603 73 51 33,ivan_turner,https://www.linkedin.com/in/ivan-turner-56507/,PhD candidate,Charlotte
+2,Andre Ibarra,MF,New Zealand,n/a,Management,980014570,,,,,,,
+3,Quinn Gutierrez,F,Mexico,Summer 2018,Management,986691619,quinn.gutierrez@example.com,,00+55 639 94 84 57,,,,
+4,Pablo Reyes,GK,Austin,Summer 2021,Finance,960900658,,,(322) 960-9779,,,General Contractor,Charlotte
+5,Gabriel Gutierrez,MF,Charlotte,n/a,Finance,979133014,,,(383) 509-1231,gabriel_gutier,https://www.linkedin.com/in/gabriel-gutierrez-17146/,Soccer Agent,Austin
+6,Rafael Jensen,GK,Denver,Spring 2011,Communication,963001391,rafael.jensen@example.com,rafaelje9042@school.example.edu,,@rafael_jensen,https://www.linkedin.com/in/rafael-jensen-18564/,Professional Footballer at Coastal FC,Atlanta
+7,Mateo Patel,GK,Naples,n/a,Marketing,984482772,,,,,,,
+8,Andre Santos,D,Fort Myers,n/a,Integrated Studies,911432787,,,,,,,
+9,Zane Nguyen,D,Guatemala,n/a,Communication,983002706,,,,,,,
+10,Oscar Fischer,D,Austin,Summer 2020,Finance,908083974,oscar.fischer@example.com,,,oscar_fischer,https://www.linkedin.com/in/oscar-fischer-30585/,Goalkeeper at Metro United,Fort Myers
+11,Hugo Foster,GK,Charlotte,Summer 2026,Finance,931068214,hugo.foster@example.com,hugofost7693@school.example.edu,00+34 669 38 92 29,hugo_foster,,Business Owner,Mexico
+12,Ben Ellis,MF,Guatemala,Fall 2020,Integrated Studies,962907576,ben.ellis@example.com,benellis6039@school.example.edu,7056482317,,,Licensed Realtor,Germany
+13,Diego Nguyen,MF,Miami,Spring 2013,Marketing,990502794,diego.nguyen@example.com,,681-731-8245,@diego_nguyen,https://www.linkedin.com/in/diego-nguyen-86720/,Project Manager at Cobalt Consulting,Tampa
+14,Nolan Underwood,MF,Canada,Summer 2022,Communication,943091709,,nolanund2494@school.example.edu,,nolan_underwoo,https://www.linkedin.com/in/nolan-underwood-62488/,Software Developer,Atlanta
+15,Ben Zimmer,F,Canada,n/a,Management,915558733,ben.zimmer@example.com,benzimme6153@school.example.edu,,,,Professional Footballer at Coastal FC,Tampa
+16,Gabriel Quintero,F,Costa Rica,Fall 2025,Management,927321124,,,(229) 845-4920,,https://www.linkedin.com/in/gabriel-quintero-50730/,General Contractor,Brazil
+17,Rafael Alvarez,MF,Canada,Summer 2014,Communication,920665654,rafael.alvarez@example.com,rafaelal2858@school.example.edu,(683) 449-8483,,https://www.linkedin.com/in/rafael-alvarez-60277/,Firefighter,Brazil
+18,Gabriel Fischer,MF,Canada,n/a,Finance,909369750,gabriel.fischer@example.com,,719-473-1042,gabriel_fische,https://www.linkedin.com/in/gabriel-fischer-86931/,,
+19,Sam Vargas,F,Mexico,Summer 2026,Finance,974077101,,,00+55 699 62 15 50,sam_vargas,https://www.linkedin.com/in/sam-vargas-59968/,,
+20,Mateo Vargas,GK,Guatemala,Summer 2012,Communication,979212676,,mateovar3492@school.example.edu,00+55 609 70 43 53,mateo_vargas,https://www.linkedin.com/in/mateo-vargas-62098/,Soccer Agent,Mexico
+21,Victor Carter,GK,Charlotte,Summer 2021,Finance,965491202,,victorca9742@school.example.edu,,,,Student Pilot,?
+22,Hugo Young,GK,Miami,n/a,Finance,994474627,hugo.young@example.com,,,hugo_young,,Youth Academy Coach,Brazil
+23,Jonas Lopez,D,Guatemala,n/a,Communication,919538047,,,,,,,
+24,Andre Foster,F,Charlotte,n/a,Communication,910598952,,,,,,,
+25,Ethan Santos,MF,Mexico,n/a,Finance,961894493,,,,,,,
+26,Wesley Alvarez,MF,Canada,Summer 2016,Finance,946381032,,wesleyal8622@school.example.edu,00+33 613 40 58 83,wesley_alvarez,https://www.linkedin.com/in/wesley-alvarez-48780/,,
+27,Xavier Jensen,F,Denver,n/a,Management,988346110,,,,,,,
+28,Sam Dietrich,F,Brazil,n/a,Marketing,981390501,sam.dietrich@example.com,,(821) 560-4588,,https://www.linkedin.com/in/sam-dietrich-91381/,,
+29,Ivan Vargas,D,Fort Myers,n/a,Management,988473848,,,,,,,
+30,Jonas Bauer,D,Naples,Fall 2015,Integrated Studies,939609054,jonas.bauer@example.com,,574-743-9221,jonas_bauer,https://www.linkedin.com/in/jonas-bauer-43681/,Soccer Agent,Atlanta
+31,Ethan Costa,F,New Zealand,Summer 2021,Finance,962858374,,,292-604-1228,ethan_costa,,Professional Soccer Player,Charlotte
+32,Oscar Lopez,MF,Fort Myers,n/a,Marketing,985704631,oscar.lopez@example.com,,,oscar_lopez,https://www.linkedin.com/in/oscar-lopez-91205/,,
+33,Diego Reyes,MF,Canada,Fall 2013,Management,962312933,diego.reyes@example.com,,343-246-1609,diego_reyes,,,
+34,Daniel Dominguez,F,Fort Myers,Summer 2025,Communication,999742578,daniel.dominguez@example.com,,8306175583,daniel_domingu,https://www.linkedin.com/in/daniel-dominguez-38477/,Business Owner,Naples
+35,Oscar Ortega,GK,Germany,Summer 2014,Finance,949302863,,,3943258450,oscar_ortega,https://www.linkedin.com/in/oscar-ortega-94109/,Equipment Specialist at Regional Health,France
+36,Victor Turner,MF,Charlotte,n/a,Marketing,906788532,,,,,,,
+37,Gabriel Carter,MF,Naples,Fall 2017,Marketing,931272553,,gabrielc4394@school.example.edu,7534563858,,https://www.linkedin.com/in/gabriel-carter-96646/,Professional Footballer at Coastal FC,Tampa
+38,Chris Alvarez,F,Guatemala,Fall 2021,Management,NO MATCH,chris.alvarez@example.com,chrisalv4898@school.example.edu,00+49 665 85 23 67,,https://www.linkedin.com/in/chris-alvarez-76039/,Recruiting Specialist,?
+39,Hugo Turner,F,Fort Myers,Fall 2020,Communication,904180968,hugo.turner@example.com,,9296542204,hugo_turner,https://www.linkedin.com/in/hugo-turner-29442/,Digital Marketing Manager,Germany
+40,Carlos Ellis,MF,Germany,n/a,Integrated Studies,984970119,,,,,,,
+41,Quinn Jensen,F,Fort Myers,n/a,Management,981259008,,,,,,,
+42,Chris Underwood,F,Canada,Fall 2017,Management,930667888,,,520-637-6120,,https://www.linkedin.com/in/chris-underwood-59060/,Freelance Videographer,Mexico
+43,Eric Vargas,D,New Zealand,n/a,Management,911457410,,ericvarg2099@school.example.edu,,eric_vargas,,Youth Academy Coach,France
+44,Rafael Reyes,MF,Fort Myers,Fall 2024,Integrated Studies,996779126,rafael.reyes@example.com,rafaelre6793@school.example.edu,,rafael_reyes,,Youth Academy Coach,Brazil
+45,Pablo Hayes,GK,Denver,Fall 2022,Management,937388792,,pablohay6736@school.example.edu,,,https://www.linkedin.com/in/pablo-hayes-33647/,Territory Manager,New Zealand
+46,Ivan Whitaker,GK,Orlando,Summer 2011,Integrated Studies,919226889,,ivanwhit6567@school.example.edu,00+49 620 57 49 51,ivan_whitaker,https://www.linkedin.com/in/ivan-whitaker-84395/,Sales Consultant,?
+47,Tomas Carter,F,Canada,Spring 2012,Finance,936521025,,tomascar3549@school.example.edu,,tomas_carter,,"Assistant Coach, Pro Club",Costa Rica
+48,Quinn Dominguez,D,Brazil,Fall 2020,Marketing,953051354,quinn.dominguez@example.com,quinndom8972@school.example.edu,,quinn_domingue,https://www.linkedin.com/in/quinn-dominguez-43491/,Product Marketing Manager,?
+49,Jonas Keller,D,Guatemala,Fall 2024,Integrated Studies,951030579,,,00+34 655 12 68 19,,https://www.linkedin.com/in/jonas-keller-51033/,,
+50,Sam Nguyen,MF,Atlanta,Summer 2020,Integrated Studies,902799319,sam.nguyen@example.com,,,,https://www.linkedin.com/in/sam-nguyen-70305/,,
+51,Ben Whitaker,F,Fort Myers,n/a,Marketing,911828592,,,,,,,
+52,Nolan Santos,D,France,Fall 2021,Finance,922566390,nolan.santos@example.com,nolansan6083@school.example.edu,,,https://www.linkedin.com/in/nolan-santos-94599/,Professional Soccer Player,Fort Myers
+53,Hugo Dominguez,MF,Spain,Fall 2013,Marketing,984281857,hugo.dominguez@example.com,hugodomi3504@school.example.edu,,,https://www.linkedin.com/in/hugo-dominguez-67640/,Recruiting Specialist,Mexico
+54,Carlos Patel,MF,Mexico,Fall 2012,Communication,909957701,carlos.patel@example.com,carlospa5500@school.example.edu,238-258-7041,@carlos_patel,https://www.linkedin.com/in/carlos-patel-21835/,,
+55,Tomas Turner,F,Fort Myers,Summer 2017,Finance,963837847,tomas.turner@example.com,tomastur1672@school.example.edu,(931) 286-9266,,https://www.linkedin.com/in/tomas-turner-15130/,Goalkeeper at Metro United,Miami
+56,Hugo Whitaker,D,France,n/a,Finance,958978194,,,,,,,
+57,Ethan Jensen,GK,Spain,n/a,Management,945414869,,,,,,,
+58,Kevin Dominguez,MF,Denver,n/a,Integrated Studies,951883769,,,,,,,
+59,Chris Ellis,MF,New Zealand,Spring 2022,Communication,988054173,chris.ellis@example.com,,,,https://www.linkedin.com/in/chris-ellis-94343/,Sales Consultant,Orlando
+60,Andre Keller,GK,Canada,n/a,Integrated Studies,989941500,,,,,,,
+61,Lucas Alvarez,D,Orlando,Spring 2021,Finance,965266178,,,3037199843,lucas_alvarez,https://www.linkedin.com/in/lucas-alvarez-91006/,Performance Specialist at Apex Training,Naples
+62,Eric Turner,F,France,Spring 2016,Marketing,905864298,,,00+55 668 40 49 70,eric_turner,https://www.linkedin.com/in/eric-turner-35430/,,
+63,Lucas Vargas,F,Brazil,n/a,Communication,959135982,,,,,,,
+64,Quinn Quintero,GK,Guatemala,Fall 2015,Management,907003454,quinn.quintero@example.com,quinnqui4271@school.example.edu,491-285-3626,quinn_quintero,,Sales Consultant,New Zealand
+65,Quinn Ellis,F,Miami,n/a,Communication,929801436,,quinnell2502@school.example.edu,,,https://www.linkedin.com/in/quinn-ellis-75799/,Sales Consultant,Tampa
+66,Lucas Hayes,D,Miami,Spring 2021,Finance,995925983,lucas.hayes@example.com,lucashay4678@school.example.edu,,,https://www.linkedin.com/in/lucas-hayes-71925/,Student Pilot,Naples
+67,Xavier Costa,F,Fort Myers,Summer 2011,Finance,902550658,,,4435082996,,https://www.linkedin.com/in/xavier-costa-41252/,Firefighter,Naples
+68,Andre Turner,F,Tampa,Summer 2011,Integrated Studies,977181563,,,(561) 446-7825,andre_turner,https://www.linkedin.com/in/andre-turner-21221/,Territory Manager,Brazil
+69,Quinn Lopez,GK,Germany,Fall 2011,Finance,963100462,quinn.lopez@example.com,,,,,,
+70,Ivan Young,D,Miami,Summer 2018,Finance,984323222,ivan.young@example.com,,00+33 680 33 27 18,ivan_young,https://www.linkedin.com/in/ivan-young-69988/,Account Executive at Northwind Logistics,Spain
+71,Brian Jensen,GK,Spain,n/a,Finance,926772387,,,,,,,
+72,Quinn Morales,F,Denver,n/a,Management,972884346,,,,,,,
+73,Zane Underwood,F,Spain,Fall 2021,Marketing,949394697,zane.underwood@example.com,zaneunde1783@school.example.edu,,zane_underwood,https://www.linkedin.com/in/zane-underwood-75211/,Professional Footballer at Coastal FC,Mexico
+74,Lucas Fischer,D,New Zealand,n/a,Finance,997587203,,lucasfis5369@school.example.edu,,lucas_fischer,,Financial Representative,?
+75,Carlos Keller,F,Denver,Spring 2025,Management,905684813,carlos.keller@example.com,carloske7981@school.example.edu,276-887-7655,carlos_keller,,Software Developer,France
+76,Yusuf Vargas,GK,Charlotte,n/a,Finance,981547054,,,(570) 592-1530,,https://www.linkedin.com/in/yusuf-vargas-99006/,Sales Consultant,?
+77,Lucas Ortega,GK,Tampa,Fall 2015,Marketing,953423225,,,7117307340,lucas_ortega,https://www.linkedin.com/in/lucas-ortega-44116/,Professional Footballer at Coastal FC,Charlotte
+78,Xavier Ortega,GK,Spain,Fall 2026,Finance,918217159,xavier.ortega@example.com,,926-266-9882,xavier_ortega,,Account Executive at Northwind Logistics,Mexico
+79,Chris Foster,D,Charlotte,n/a,Communication,948518659,chris.foster@example.com,,,@chris_foster,https://www.linkedin.com/in/chris-foster-82616/,Fraud Specialist at First Regional Bank,Austin
+80,Sam Lopez,F,Canada,Fall 2013,Integrated Studies,953440127,,,2753286194,sam_lopez,https://www.linkedin.com/in/sam-lopez-99143/,Student Pilot,Guatemala
+81,Eric Engel,D,Atlanta,Spring 2024,Finance,907437386,,ericenge3981@school.example.edu,926-430-6669,eric_engel,https://www.linkedin.com/in/eric-engel-42847/,Account Executive at Northwind Logistics,Brazil
+82,Gabriel Underwood,D,Spain,Spring 2020,Integrated Studies,912539748,,gabrielu5496@school.example.edu,2422292330,,,Fraud Specialist at First Regional Bank,Naples
+83,Victor Zimmer,MF,Brazil,n/a,Communication,955913331,victor.zimmer@example.com,,450-901-7653,victor_zimmer,https://www.linkedin.com/in/victor-zimmer-17852/,Project Manager at Cobalt Consulting,Costa Rica
+84,Fabian Ortega,F,Naples,Spring 2021,Finance,941954112,,,727-775-2739,fabian_ortega,https://www.linkedin.com/in/fabian-ortega-26059/,Product Marketing Manager,France
+85,Ivan Ortega,D,Atlanta,Summer 2024,Communication,921434525,ivan.ortega@example.com,ivanorte5754@school.example.edu,727-678-9171,ivan_ortega,https://www.linkedin.com/in/ivan-ortega-21802/,Public Health Sanitarian,Spain
+86,Mateo Quintero,GK,Fort Myers,Spring 2012,Communication,980197611,mateo.quintero@example.com,mateoqui6781@school.example.edu,00+49 605 61 16 82,,https://www.linkedin.com/in/mateo-quintero-83638/,Fraud Specialist at First Regional Bank,Brazil
+87,Gabriel Lopez,F,Guatemala,n/a,Communication,909869264,,,,,,,
+88,Zane Reyes,GK,Naples,n/a,Management,983650068,,,,,,,
+89,Mateo Lopez,F,Guatemala,n/a,Management,949070856,,mateolop6555@school.example.edu,,@mateo_lopez,https://www.linkedin.com/in/mateo-lopez-27961/,Territory Manager,Guatemala
+90,Xavier Keller,D,Germany,Summer 2015,Integrated Studies,969190008,,xavierke9508@school.example.edu,,xavier_keller,https://www.linkedin.com/in/xavier-keller-49221/,Professional Soccer Player,Spain
+91,Sam Keller,MF,Spain,Summer 2020,Management,902232974,sam.keller@example.com,,,sam_keller,https://www.linkedin.com/in/sam-keller-86507/,,
+92,Diego Young,GK,Costa Rica,n/a,Finance,984457912,,,,,,,
+93,Victor Bauer,D,Charlotte,Fall 2012,Management,922885741,,victorba4728@school.example.edu,,,,Goalkeeper at Metro United,Germany
+94,Sam Whitaker,GK,Naples,Summer 2015,Integrated Studies,927365878,sam.whitaker@example.com,samwhita6139@school.example.edu,00+33 640 32 68 78,sam_whitaker,https://www.linkedin.com/in/sam-whitaker-56437/,IT Auditor,Costa Rica
+95,Wesley Zimmer,MF,New Zealand,Fall 2026,Finance,933087238,,wesleyzi5331@school.example.edu,(430) 504-5735,wesley_zimmer,https://www.linkedin.com/in/wesley-zimmer-74094/,,
+96,Kevin Patel,MF,Naples,Fall 2019,Finance,976970753,kevin.patel@example.com,,243-494-2294,kevin_patel,https://www.linkedin.com/in/kevin-patel-95979/,Licensed Realtor,Germany
+97,Pablo Gutierrez,D,Charlotte,Fall 2019,Management,982634772,pablo.gutierrez@example.com,,,@pablo_gutierre,https://www.linkedin.com/in/pablo-gutierrez-53292/,Territory Manager,Guatemala
+98,Xavier Patel,GK,New Zealand,n/a,Marketing,918450513,,,,,,,
+99,Ethan Engel,MF,Brazil,Fall 2017,Management,938553376,,ethaneng8822@school.example.edu,,ethan_engel,https://www.linkedin.com/in/ethan-engel-21725/,,
+100,Victor Santos,F,Atlanta,Spring 2024,Finance,923593960,,,2382095888,,,Professional Soccer Player,Germany
+101,Ethan Keller,F,Denver,Fall 2026,Marketing,918012011,ethan.keller@example.com,,,ethan_keller,https://www.linkedin.com/in/ethan-keller-53343/,,
+102,Fabian Young,F,Canada,Spring 2021,Integrated Studies,976206305,fabian.young@example.com,fabianyo4050@school.example.edu,,,https://www.linkedin.com/in/fabian-young-52982/,Software Developer,Atlanta
+103,Carlos Morales,MF,Germany,Summer 2021,Marketing,900916723,carlos.morales@example.com,carlosmo3303@school.example.edu,657-971-5374,carlos_morales,https://www.linkedin.com/in/carlos-morales-85088/,,
+104,Alex Ibarra,GK,Brazil,Spring 2014,Finance,921436829,alex.ibarra@example.com,,(829) 426-4590,alex_ibarra,,Public Health Sanitarian,Brazil
+105,Oscar Young,F,Guatemala,Summer 2026,Finance,989133246,,oscaryou7121@school.example.edu,2797772838,oscar_young,,Staff Accountant at Harbor & Co,Orlando
+106,Diego Quintero,F,Fort Myers,n/a,Marketing,944039203,,,9347979008,,https://www.linkedin.com/in/diego-quintero-76895/,,
+107,Oscar Bauer,MF,Tampa,Summer 2012,Marketing,990297353,oscar.bauer@example.com,oscarbau7806@school.example.edu,00+49 689 18 79 17,,https://www.linkedin.com/in/oscar-bauer-19046/,Business Development Representative at Brightline,Germany
+108,Ethan Patel,D,Naples,n/a,Communication,954877191,,,,,,,
+109,Lucas Engel,F,Orlando,n/a,Integrated Studies,950666702,,,,,,,
+110,Eric Underwood,GK,Tampa,n/a,Finance,972109613,,ericunde2943@school.example.edu,,eric_underwood,https://www.linkedin.com/in/eric-underwood-81361/,General Contractor,Charlotte
+111,Nolan Reyes,F,Tampa,Summer 2015,Marketing,997311066,nolan.reyes@example.com,nolanrey8546@school.example.edu,,,https://www.linkedin.com/in/nolan-reyes-37011/,Youth Academy Coach,?
+112,Carlos Dominguez,D,Guatemala,Spring 2012,Finance,931452485,carlos.dominguez@example.com,carlosdo1797@school.example.edu,439-949-6224,carlos_domingu,https://www.linkedin.com/in/carlos-dominguez-28777/,Product Marketing Manager,Miami
+113,Wesley Quintero,F,Guatemala,Fall 2016,Finance,957337891,wesley.quintero@example.com,wesleyqu1998@school.example.edu,(913) 626-7688,,https://www.linkedin.com/in/wesley-quintero-49306/,Software Developer,France
+114,Mateo Foster,F,Miami,n/a,Integrated Studies,930245233,,,(622) 626-9683,mateo_foster,https://www.linkedin.com/in/mateo-foster-43422/,Business Development Representative at Brightline,Naples
+115,Gabriel Keller,MF,Orlando,n/a,Integrated Studies,960369365,,,,,,,
+116,Yusuf Costa,D,Costa Rica,n/a,Marketing,925254849,yusuf.costa@example.com,yusufcos1647@school.example.edu,(540) 510-1251,yusuf_costa,https://www.linkedin.com/in/yusuf-costa-25376/,PhD candidate,New Zealand
+117,Yusuf Zimmer,MF,Denver,Summer 2018,Finance,937991562,yusuf.zimmer@example.com,yusufzim4350@school.example.edu,7257098635,yusuf_zimmer,https://www.linkedin.com/in/yusuf-zimmer-71537/,Professional Footballer at Coastal FC,France
+118,Zane Costa,D,Tampa,n/a,Finance,955556767,,,766-798-7841,,https://www.linkedin.com/in/zane-costa-29976/,Youth Academy Coach,Charlotte
+119,Hugo Morales,D,Naples,Summer 2026,Integrated Studies,986126771,hugo.morales@example.com,hugomora6530@school.example.edu,7003889882,hugo_morales,,"Assistant Coach, Pro Club",France
+120,Ben Dietrich,D,Orlando,Spring 2011,Marketing,984651342,ben.dietrich@example.com,,00+49 607 89 91 95,ben_dietrich,https://www.linkedin.com/in/ben-dietrich-73334/,,
+121,Wesley Patel,MF,Tampa,n/a,Integrated Studies,902244945,wesley.patel@example.com,,(914) 890-8054,@wesley_patel,,Project Manager at Cobalt Consulting,New Zealand
+122,Daniel Quintero,MF,Germany,n/a,Communication,947572279,daniel.quintero@example.com,danielqu9625@school.example.edu,,,,Business Development Representative at Brightline,Orlando
+123,Sam Hayes,F,Germany,Summer 2013,Integrated Studies,987227356,,samhayes4700@school.example.edu,,,https://www.linkedin.com/in/sam-hayes-72390/,Civil Engineer,?
+124,Brian Underwood,D,Costa Rica,Summer 2021,Finance,912799248,brian.underwood@example.com,brianund9189@school.example.edu,,@brian_underwoo,,Fraud Specialist at First Regional Bank,Charlotte
+125,Carlos Vargas,F,Orlando,Fall 2012,Finance,942209421,,carlosva9897@school.example.edu,00+49 649 27 98 20,,https://www.linkedin.com/in/carlos-vargas-75639/,Professional Soccer Player,Naples
+126,Yusuf Lopez,GK,Denver,Spring 2013,Communication,982391596,,,00+33 623 97 84 94,yusuf_lopez,https://www.linkedin.com/in/yusuf-lopez-91083/,Software Developer,Spain
+127,Carlos Carter,MF,Mexico,Fall 2023,Finance,914301022,carlos.carter@example.com,carlosca3527@school.example.edu,,carlos_carter,,Real Estate Agent,?
+128,Daniel Ellis,GK,Spain,Summer 2014,Communication,947501571,daniel.ellis@example.com,danielel9395@school.example.edu,00+34 692 81 41 83,,https://www.linkedin.com/in/daniel-ellis-78302/,,
+129,Fabian Vargas,F,Brazil,Summer 2020,Communication,919587040,,,(278) 569-5123,fabian_vargas,https://www.linkedin.com/in/fabian-vargas-74985/,Professional Soccer Player,Denver
+130,Gabriel Ortega,GK,Germany,n/a,Finance,940890504,,,,,,,
+131,Ben Turner,D,Costa Rica,Summer 2021,Finance,987380687,ben.turner@example.com,,,,https://www.linkedin.com/in/ben-turner-33283/,Product Marketing Manager,Spain
+132,Mateo Keller,D,New Zealand,Summer 2018,Management,937621248,mateo.keller@example.com,,00+49 688 18 62 96,mateo_keller,,J.D. candidate,Austin
+133,Victor Jensen,F,New Zealand,Fall 2024,Integrated Studies,909927432,victor.jensen@example.com,,9086289907,victor_jensen,https://www.linkedin.com/in/victor-jensen-57124/,General Contractor,Costa Rica
+134,Xavier Engel,GK,Germany,n/a,Finance,933316996,,xavieren2392@school.example.edu,,,https://www.linkedin.com/in/xavier-engel-66420/,Student Pilot,Atlanta
+135,Daniel Alvarez,D,Mexico,n/a,Finance,992296754,daniel.alvarez@example.com,danielal9499@school.example.edu,,,https://www.linkedin.com/in/daniel-alvarez-61266/,,
+136,Oscar Zimmer,GK,Naples,Spring 2022,Finance,964796438,oscar.zimmer@example.com,,,,https://www.linkedin.com/in/oscar-zimmer-50880/,Guest Services Agent,Orlando
+137,Kevin Ortega,MF,Orlando,n/a,Finance,963909453,,kevinort9537@school.example.edu,2459272885,kevin_ortega,https://www.linkedin.com/in/kevin-ortega-94930/,Youth Academy Coach,Mexico
+138,Daniel Vargas,D,Spain,n/a,Integrated Studies,974076145,,danielva4996@school.example.edu,00+55 623 91 94 65,daniel_vargas,https://www.linkedin.com/in/daniel-vargas-90492/,,
+139,Diego Gutierrez,GK,New Zealand,Summer 2011,Marketing,927619925,,,00+34 633 95 72 77,diego_gutierre,https://www.linkedin.com/in/diego-gutierrez-51078/,Soccer Agent,Orlando
+140,Tomas Morales,GK,France,n/a,Finance,978786439,,,,,,,
+141,Chris Ortega,GK,Charlotte,Fall 2020,Finance,979211057,chris.ortega@example.com,,(319) 387-7116,chris_ortega,https://www.linkedin.com/in/chris-ortega-64819/,Account Executive at Northwind Logistics,Spain
+142,Tomas Ellis,F,Miami,Fall 2016,Finance,965718640,tomas.ellis@example.com,tomasell8973@school.example.edu,,,https://www.linkedin.com/in/tomas-ellis-11256/,General Contractor,Spain
+143,Pablo Ellis,F,Mexico,Fall 2026,Communication,965998330,pablo.ellis@example.com,pabloell9281@school.example.edu,(371) 284-1505,,https://www.linkedin.com/in/pablo-ellis-48284/,,
+144,Brian Ibarra,D,Mexico,n/a,Integrated Studies,938744673,,,,,,,
+145,Zane Patel,GK,Mexico,n/a,Integrated Studies,915328557,,,(423) 635-2677,zane_patel,,Soccer Agent,France
+146,Brian Ortega,F,Atlanta,Summer 2014,Integrated Studies,931802361,,,3424114390,brian_ortega,https://www.linkedin.com/in/brian-ortega-79767/,Digital Marketing Manager,France
+147,Rafael Foster,GK,Denver,Summer 2019,Marketing,969043610,rafael.foster@example.com,,(918) 335-5090,rafael_foster,https://www.linkedin.com/in/rafael-foster-42447/,Account Executive at Northwind Logistics,Canada
+148,Wesley Morales,F,Guatemala,Summer 2024,Finance,910135622,wesley.morales@example.com,,00+49 674 10 21 68,wesley_morales,https://www.linkedin.com/in/wesley-morales-56952/,Project Manager at Cobalt Consulting,Orlando
+149,Chris Carter,MF,New Zealand,Spring 2024,Integrated Studies,966399516,,chriscar7516@school.example.edu,333-779-8951,chris_carter,https://www.linkedin.com/in/chris-carter-16345/,Freelance Videographer,Brazil
+150,Brian Dominguez,GK,Fort Myers,n/a,Marketing,961684020,,,,,,,
+151,Alex Nguyen,GK,France,Spring 2020,Marketing,936778269,alex.nguyen@example.com,,(253) 605-6005,alex_nguyen,https://www.linkedin.com/in/alex-nguyen-21953/,Youth Academy Coach,Denver
+152,Xavier Dominguez,F,Orlando,n/a,Marketing,NO MATCH,,,,,,,
+153,Quinn Vargas,D,Germany,Fall 2021,Management,956682016,,,948-304-2690,quinn_vargas,https://www.linkedin.com/in/quinn-vargas-49223/,PhD candidate,Orlando
+154,Eric Morales,GK,Guatemala,n/a,Integrated Studies,917870584,,,00+49 692 37 90 29,eric_morales,https://www.linkedin.com/in/eric-morales-90750/,Goalkeeper at Metro United,Naples
+155,Wesley Ortega,GK,Naples,n/a,Management,911635070,,,,,,,
+156,Sam Young,GK,Brazil,Summer 2015,Marketing,986519508,sam.young@example.com,,(730) 821-9348,,https://www.linkedin.com/in/sam-young-61347/,Account Executive at Northwind Logistics,Brazil
+157,Jonas Underwood,GK,France,Spring 2026,Finance,932357445,jonas.underwood@example.com,,,@jonas_underwoo,,Business Owner,Orlando
+158,Chris Costa,MF,Austin,Summer 2016,Management,909796799,,,261-607-9300,,https://www.linkedin.com/in/chris-costa-92388/,Staff Accountant at Harbor & Co,Tampa
+159,Xavier Quintero,D,Denver,Fall 2023,Management,972016510,,xavierqu7939@school.example.edu,,xavier_quinter,https://www.linkedin.com/in/xavier-quintero-77017/,,
+160,Ethan Gutierrez,MF,Canada,Spring 2021,Marketing,985133532,,,00+34 658 88 87 17,ethan_gutierre,https://www.linkedin.com/in/ethan-gutierrez-96252/,Licensed Realtor,Orlando
+161,Yusuf Foster,D,Tampa,n/a,Marketing,995012811,,,,,,,
+162,Pablo Lopez,MF,Atlanta,n/a,Finance,996739510,,,,,,,
+163,Eric Young,GK,Denver,Summer 2014,Integrated Studies,903940129,,,00+49 607 73 82 31,eric_young,,Soccer Agent,Denver
+164,Ivan Zimmer,GK,Charlotte,n/a,Integrated Studies,977029205,,,,,,,
+165,Alex Brooks,D,Miami,n/a,Communication,901649277,,,,,,,
+166,Lucas Morales,MF,Charlotte,Spring 2012,Communication,995834249,,,9375275444,lucas_morales,,Fraud Specialist at First Regional Bank,Charlotte
+167,Wesley Engel,GK,Mexico,n/a,Finance,953811222,wesley.engel@example.com,wesleyen9450@school.example.edu,,,,,
+168,Zane Dietrich,F,Tampa,n/a,Finance,911594468,,,,,,,
+169,Gabriel Jensen,D,Mexico,n/a,Finance,940790016,,,,,,,
+170,Sam Patel,GK,Spain,Fall 2018,Management,955034115,,sampatel4201@school.example.edu,977-873-7164,@sam_patel,https://www.linkedin.com/in/sam-patel-79443/,Staff Accountant at Harbor & Co,France
+171,Hugo Nguyen,F,Orlando,Fall 2019,Integrated Studies,931067722,hugo.nguyen@example.com,hugonguy3332@school.example.edu,00+34 675 82 17 65,,https://www.linkedin.com/in/hugo-nguyen-96827/,Sales Consultant,France
+172,Eric Hayes,D,Orlando,Summer 2021,Marketing,936501299,eric.hayes@example.com,,(339) 998-2785,@eric_hayes,https://www.linkedin.com/in/eric-hayes-68925/,,
+173,Oscar Keller,MF,Miami,Spring 2025,Marketing,935568761,oscar.keller@example.com,,(535) 351-2494,,https://www.linkedin.com/in/oscar-keller-56627/,Professional Soccer Player,?
+174,Brian Vargas,GK,Germany,n/a,Communication,923336132,,,,,,,
+175,Rafael Young,D,Naples,Spring 2014,Marketing,NO MATCH,rafael.young@example.com,rafaelyo2669@school.example.edu,610-581-2376,rafael_young,,,
+176,Carlos Alvarez,GK,Atlanta,Fall 2025,Integrated Studies,912345163,,carlosal4239@school.example.edu,00+34 648 97 64 32,carlos_alvarez,https://www.linkedin.com/in/carlos-alvarez-34530/,Recruiting Specialist,Mexico

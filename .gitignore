@@ -1,0 +1,9 @@
+# real data stays private
+*.xlsx
+*.xls
+data/private/
+data/raw_msoc*.csv
+data/category_lookup.csv
+*.db
+.DS_Store
+__pycache__/
